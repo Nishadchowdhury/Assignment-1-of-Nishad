@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.sec-wrap-1170-sec-1{
+    width: 1170px;
+    margin: auto;
+    display: flex;
+}
+.sec-1{
+    margin-bottom: 40px;
+}
+.tag-left-div{
+    font-size: 40px;
+    margin-top: 130px;
+    border-left: 5px solid ;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+.tag-left-div span {
+    color:#fb5200;
+    
+}
+.left-div-sec-1{width: 60%;
+}
+.left-div-sec-1 p{
+    width: 402px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #5c5c5c;
+}
+.left-div-sec-1 #explore-btn{
+    padding: 15px 35px;
+    background-color: #fb5200;
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+}
+#about-me-btn{
+text-decoration: none;
+background: #fb5200;
+padding: 10px 11px;
+font-size: 13px;
+display: inline-block;
+margin-top: 15px;
+border-radius: 10px;
+color: white;
+font-weight: 500;
+margin-left: 8px;
+}
+.right-div-sec-1{width: 35%;}
+
+.right-div-sec-1 img{
+    width: 100%;
+}
+
+/* section one end css */
+.sec-2 h1{
+    margin: auto;
+    text-align: center;
+    font-size: 45px;
+    color: #13103A;
+    font-weight: revert;
+}
+.sec-2 span{
+    color: #fb5200;
+}
+.sec-wrap-1170-sec-2{
+    justify-content: space-between;
+}  
+
+.sec-2-mission-div1{
+    background-color:#EDF5F6;
+}
+.sec-2-mission-div2{
+    background-color:#FFEEEE;
+}
+.sec-2-mission-div3{
+    background-color:#FFF4D6;
+}
+.missoin-div{
+    width: 335px;
+    border-radius: 25px;
+}
+.missoin-div img{
+    width: 150px;
+}
