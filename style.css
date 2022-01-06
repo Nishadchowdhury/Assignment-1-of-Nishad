@@ -190,7 +190,7 @@ margin-bottom: 90px;
  }
  
  .app-backgrund{
-     background-image: url(/images/shapes/shape-3.png);
+     background-image: url(./images/shapes/shape-3.png);
      background-repeat: no-repeat;
      background-position-x: 150px;
      background-position-y: 28px;
